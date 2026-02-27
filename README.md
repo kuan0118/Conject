@@ -1,5 +1,6 @@
 # Conject - Console Injector
-A simple Console-only DLL(s) Injector
+A simple Console-only DLL(s) Injector </br>
+Feel free to use this project as base, credit if you can.
 
 > This branch is the **single-process** version of Conject.  
 > Looking for the process-picker version? See the **[universal](https://github.com/Lurk-r/conject/tree/universal)** branch.
@@ -22,10 +23,10 @@ If no matching process is found, the injector can wait/launch (via Steam) and in
 ## Features
 
 - Console-only UI
-- Default target process pattern
+- Default target process pattern with auto launch via Steam's AppID
 - DLL discovery from injector folder (`*.dll`)
 - Lightweight and easy to use
 - Minimal dependencies (Windows API only, no `vcruntime`)
 - Portable (with `/MT`)
-- Single or multi-DLL injection
+- Single or multi-DLL injection via QueueAPC
 - Retry with elevation/crash checks
